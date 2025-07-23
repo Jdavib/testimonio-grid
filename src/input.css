@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500 600;
+  font-display: swap;
+  src: url("/asset/Barlow_Semi_Condensed/BarlowSemiCondensed-Medium.ttf") format("woff2");
+}
+@theme {
+  --font-Barlow:"Barlow";
+}
+
